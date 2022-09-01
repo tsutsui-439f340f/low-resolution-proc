@@ -7,9 +7,9 @@ example \
 ![image](https://user-images.githubusercontent.com/55880071/187933165-84ad6721-fbce-4e35-98ba-b90df5a74fc9.png)
 
 example \
-```python low-resolution-proc.py sample.png out.png 3 12```
+```python low-resolution-proc.py sample.png out.png 3 5```
 
-![image](https://user-images.githubusercontent.com/55880071/187933593-e888a440-6014-4709-9641-32fa22493aa2.png)
+![image](https://user-images.githubusercontent.com/55880071/187934007-7f6a2a6e-53bb-40ef-a279-f7e816459054.png)
 
 
 example \
