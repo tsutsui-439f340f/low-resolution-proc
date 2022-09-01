@@ -1,6 +1,6 @@
 # low-resolution-proc
 
-## How to way
+## Usage
 example \
 ```python low-resolution-proc.py sample.png out.png 3 122```
 
