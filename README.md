@@ -1,7 +1,7 @@
 # low-resolution-proc
 
 ## Usage
-The first argument is the window size.\
+The first argument is the window size. You can use only odd number.\
 The second argument is the number of colors.\
 If the number of the first argument is increased, the generated image becomes blurred.\
 If the number of the second argument is decreased, the color representation of the generated image becomes monotonous.
