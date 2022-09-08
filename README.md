@@ -21,3 +21,6 @@ If the number of the second argument is decreased, the color representation of t
 ```python low-resolution-proc.py sample.png out.png 7 122```
 
 ![image](https://user-images.githubusercontent.com/55880071/187933751-b7370e3f-da2e-4168-b05b-a1aee5b79c18.png)
+
+### example4
+![image](https://user-images.githubusercontent.com/55880071/189097846-1e40533b-6701-432e-92e3-d447ab0d9aaf.png)
