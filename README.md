@@ -1,8 +1,8 @@
 # low-resolution-proc
 
 ## Usage
-The first argument is the input image.
-The second argument is the output image.
+The first argument is the input image.\
+The second argument is the output image.\
 The third argument is the window size. You can use only odd number.\
 If the number of the third argument is increased, the generated image becomes blurred.\
 The fourth argument is the number of colors.\
