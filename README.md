@@ -1,5 +1,5 @@
 # low-resolution-proc
-
+This tool can be used to generate low-resolution images.
 ## Usage
 The first argument is the input image.\
 The second argument is the output image.\
